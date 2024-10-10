@@ -1,4 +1,4 @@
-# Projeto Criando uma API ⚙️
+# Projeto teste de API ⚙️
 
 ### Projeto proposto pelo Professor Willian Sant'Anna no curso da NextCoders.
 Nesse projeto estamos trabalhando na criação de uma API(...).
