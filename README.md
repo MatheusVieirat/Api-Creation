@@ -12,3 +12,5 @@ Nesse projeto estamos trabalhando na criação de uma API(...).
 
 ### Teste de Repositório Remoto realizado
 status: OK ✅
+
+Aguardando validação do @wssantanna
